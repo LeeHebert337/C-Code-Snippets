@@ -1,2 +1,2 @@
-# C-Code-Snippets
+#CS-Code-Snippets
 C# Snippets of Code
